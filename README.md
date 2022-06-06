@@ -26,19 +26,15 @@
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<details>
-  <summary><b>Where to find me</b></summary>
-  
-  <a href="mailto:ilona.raugalaite@stud.noroff.no" target="_blank">
-    <img src=https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white />
-  </a>
-</details>
+## Contact Me  
+<a href="mailto:ilona.raugalaite@stud.noroff.no" target="_blank">
+  <img src=https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white />
+</a>
 
-<details>
-  <summary><b>Number of visitors</b></summary>
+
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ilona-front-end)
-</details>
+
 
 
 
