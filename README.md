@@ -15,7 +15,8 @@
 
 ### Worked with
 
-![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Design tool
 
