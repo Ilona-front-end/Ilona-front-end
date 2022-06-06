@@ -1,5 +1,5 @@
 ## Hi I am Ilona 👋🏼
-Currently studying Front-end 👨‍💻
+Currently studying Front-end 👩‍💻
 
 [![Ilona GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilona-front-end&include_all_commits=true)](https://github.com/Ilona-front-end)
 
