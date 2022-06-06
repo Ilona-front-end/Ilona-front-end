@@ -3,7 +3,7 @@
 I have bachelor degree in psychology and currently studying front-end. 
 
 
-[![Ilona GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilona-front-end)](https://github.com/Ilona-front-end/github-readme-stats)
+[![Ilona GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilona-front-end&include_all_commits=true)](https://github.com/Ilona-front-end/github-readme-stats)
 
 # Languages
 
