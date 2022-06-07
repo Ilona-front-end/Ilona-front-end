@@ -2,8 +2,10 @@
 
 ## I am a Front-end student 👩‍💻
 
-- currently working on school projects
-- learning new JS frameworks
+* currently working on school projects
+* learning new JS frameworks
+  * Vue.js
+  * React.js
 
 [![Ilona GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilona-front-end&include_all_commits=true)](https://github.com/Ilona-front-end)
 
