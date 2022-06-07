@@ -2,6 +2,9 @@
 
 ## I am a Front-end student 👩‍💻
 
+![Ilona GitHub stats](https://img.shields.io/github/last-commit/Ilona-front-end/Ilona-front-end?color=green)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ilona-front-end)
+
 * currently working on school projects
 * learning new JS frameworks
   * Vue.js
@@ -33,11 +36,6 @@
   <img src=https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white />
 </a>
 
-
-<span align="right">
- 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ilona-front-end)
-</span>
 
 
 
