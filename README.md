@@ -17,12 +17,12 @@
 
 ### Worked with
 
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## Design tool
 
-![FIGMA](https://img.shields.io/badge/FIGMA-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
+![FIGMA](https://img.shields.io/badge/figma-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Hosting
 
@@ -30,13 +30,14 @@
 
 ## Contact Me  
 <a href="mailto:ilona.raugalaite@stud.noroff.no" target="_blank">
-  <img src=https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white />
+  <img src=https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white />
 </a>
 
 
-  
+<span align="right">
+ 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ilona-front-end)
-
+</span>
 
 
 
