@@ -25,7 +25,7 @@
 
 ## Design tool
 
-![FIGMA](https://img.shields.io/badge/figma-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Hosting
 
