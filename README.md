@@ -2,7 +2,7 @@
 
 ## I am a Front-end student 👩‍💻
 
-![Ilona GitHub stats](https://img.shields.io/github/last-commit/Ilona-front-end/Ilona-front-end?color=green)
+![Ilona GitHub stats](https://img.shields.io/github/last-commit/Ilona-front-end/Ilona-front-end)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ilona-front-end)
 
 * currently working on school projects
