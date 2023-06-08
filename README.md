@@ -18,7 +18,7 @@ I'm Ilona, i have been studying front-end for 2 years. I enjoy learning new prog
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding-right: 10px;" /> </a> 
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="padding-right: 10px;" /> </a>
    <a href="https://tailwindcss.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" style="padding-right: 10px;" /> </a>
-
+   <a href="https://vitejs.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40" style="padding-right: 10px;" /> </a>
  </p>
 
 
