@@ -21,6 +21,7 @@ I'm Ilona, i have been studying front-end for 2 years. I enjoy learning new prog
    <a href="https://vitejs.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40" style="padding-right: 10px;" /> </a>
  </p>
 
+#### 🔗 Check my [Portfolio](https://ilona-frontend-portfolio.netlify.app)
 
 #### 🔗 Connect with me
 <p align="left">
